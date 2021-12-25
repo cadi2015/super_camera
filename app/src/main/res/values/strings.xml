@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SuperCamera</string>
+    <string name="tab_fish">摸鱼相机</string>
+    <string name="tab_book">相机百科</string>
+</resources>
